@@ -1,3 +1,3 @@
-Hello this is Keith.
+Hello I am Keith from Hong Kong.
 
-I am brought here by udacity
+This is my first repo on Github. I was brought here by Udacity.
